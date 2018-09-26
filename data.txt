@@ -1,3 +1,4 @@
 Name: pepper_aenn   
 Age: 27
 Favorite Color: Teal
+Animal: FOX
